@@ -1,0 +1,19 @@
+Beta Build 1002
+-最早的测试版本
+v1.0 Build 1005
+-最初版本，仅支持DISM修复
+v2.0 Build 2001
+-修复了部分Bug
+Beta Build 2043
+-添加了sfc支持
+Beta Build 2775
+-修复部分Bug
+v3.0 Build 3011
+-正式添加了sfc支持
+-修复部分Bug
+-添加主界面退出功能
+v3.5 Build 3562 (本次更新包括<bugfix.327182.x86>补丁修复)
+-添加sfc扫描方式选择
+-修复bug
+
+PS:该软件开放源代码，可在该软件安装路径\lib\Resource\index.cpp中查看和编译
